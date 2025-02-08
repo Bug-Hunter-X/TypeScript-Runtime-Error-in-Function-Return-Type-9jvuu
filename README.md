@@ -1,0 +1,1 @@
+This repository contains a TypeScript code example demonstrating a potential runtime error related to function return types. The `greet` function is declared to return a string, but there's no robust error handling to guarantee this.  The solution demonstrates how to mitigate this issue.
